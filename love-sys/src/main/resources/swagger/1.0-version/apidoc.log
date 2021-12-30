@@ -1,0 +1,24 @@
+十一月 07, 2020 10:05:54 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find java src paths:  [D:\Project\Love\love-sys\src\main\java\]
+十一月 07, 2020 10:05:55 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: project type not set, try to figure out...
+十一月 07, 2020 10:05:56 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start find controllers in path : D:\Project\Love\love-sys\src\main\java\
+十一月 07, 2020 10:05:59 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : UserController.java
+十一月 07, 2020 10:05:59 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : UserController.java
+十一月 07, 2020 10:06:09 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : UserController.java
+十一月 07, 2020 10:06:09 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs start...
+十一月 07, 2020 10:06:09 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : D:\Project\Love\love-sys\src\main\java\com\love\sys\controller\UserController.java
+十一月 07, 2020 10:06:17 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : D:\Project\Love\love-sys\src\main\java\com\love\sys\controller\UserController.java
+十一月 07, 2020 10:06:17 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index start !!!
+十一月 07, 2020 10:06:18 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate index done !!!
+十一月 07, 2020 10:06:18 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs done !!!

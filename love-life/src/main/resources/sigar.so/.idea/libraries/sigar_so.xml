@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sigar.so">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sigar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

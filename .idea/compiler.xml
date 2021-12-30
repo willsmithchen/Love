@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="love-security" />
+        <module name="love-life" />
+        <module name="love-swagger" />
+        <module name="love-sys" />
+        <module name="love-redis" />
+        <module name="love-core" />
+        <module name="love-webmvc" />
+        <module name="love-common" />
+        <module name="love-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="swagger-spring-boot-starter" target="1.5" />
+      <module name="swagger-spring-boot-starter (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
